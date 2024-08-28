@@ -14,4 +14,6 @@ Hiroxy - First Beta Tester
 
 Rafinha - Installing on his real Computer
 
+D3niel - Installing on his main Computer
+
 MorkBrasil - Windows Boy
