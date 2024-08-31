@@ -12,7 +12,7 @@ This is the Website of Enhance11! To acess the Website, type: https://russian95c
 
 Hiroxy - First Beta Tester
 
-Rafinha - Installing on his real Computer
+Rafinha - Installing on a real Computer
 
 D3niel - Installing on his main Computer
 
