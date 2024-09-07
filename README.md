@@ -4,7 +4,7 @@
 
 # Enhance11
 
-This is the Website of Enhance11! To acess the Website, type: https://russian95cre.github.io/Enhance11/home.html
+This is the Website of Enhance11! To acess the Website, type: https://russian95cre.github.io/Enhance11
 
 
 # Thanks for!
